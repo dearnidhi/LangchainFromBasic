@@ -1,0 +1,13 @@
+langchain
+langchain-community langchain-core
+openai
+langchain_huggingface
+load_dotenv
+#pip install langchain[hub] huggingface_hub
+langchain langchain-core
+defusedxml
+pypdf
+beautifulsoup4
+rank_bm25
+langchain.tools.builti
+transformers
